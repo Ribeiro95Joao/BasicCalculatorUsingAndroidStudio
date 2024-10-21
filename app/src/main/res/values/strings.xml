@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="calculadora_title">Calculadora</string>
+    <string name="primeiro_valor_edit_text">Primeiro Valor</string>
+    <string name="segundo_valor_edit_text">Segundo Valor</string>
+    <string name="plus_button">+</string>
+    <string name="minus_button">-</string>
+    <string name="multi_button">X</string>
+    <string name="division_button">/</string>
+    <string name="resultado_edit_text">Resultado</string>
+</resources>
